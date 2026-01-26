@@ -18,3 +18,6 @@ data/cache/
 # OS / editor
 .DS_Store
 .vscode/
+
+trial.ipynb
+notebooks/_scratch/
