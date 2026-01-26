@@ -19,5 +19,6 @@ data/cache/
 .DS_Store
 .vscode/
 
+# Scratch / learning notebooks
 trial.ipynb
 notebooks/_scratch/
