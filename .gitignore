@@ -1,8 +1,10 @@
 # Virtual environment
 venv/
+.venv/
 
 # Python cache
 __pycache__/
+*.pyc
 
 # Jupyter autosave
 .ipynb_checkpoints/
@@ -12,3 +14,7 @@ __pycache__/
 
 # FastF1 cache
 data/cache/
+
+# OS / editor
+.DS_Store
+.vscode/
