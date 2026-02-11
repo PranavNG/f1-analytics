@@ -1,0 +1,4 @@
+FROM EDA01
+The schedule includes data such as country, round bumber, eventDate, eventName, 5 sessions + date.
+For Qualifying, there is data only related to Qualifying. there is no country code either.
+For Race, there is more info, but no info related to Qualifying whatsoever.
