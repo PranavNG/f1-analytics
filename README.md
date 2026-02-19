@@ -1,4 +1,4 @@
-# 🏎️ Formula 1 Analytics
+## 🏎️ Formula 1 Analytics
 
 Data-driven analysis and visualisation of Formula 1 performance and race dynamics.
 
@@ -7,7 +7,7 @@ This repository contains exploratory and structured analytics projects investiga
 The aim is to apply rigorous data analysis techniques to a real-world domain, focusing on metric design, statistical reasoning, and clear insight communication.
 Data-driven analysis and visualisations for Formula 1.
 
-# Tools
+## Tools
 
 -> Python
 -> FastF1
@@ -15,6 +15,6 @@ Data-driven analysis and visualisations for Formula 1.
 -> Matplotlib
 -> Jupyter Notebook
 
-# Purpose
+## Purpose
 
 To build applied analytics projects that demonstrate problem framing, data processing, quantitative analysis, and visual storytelling.
