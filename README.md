@@ -10,10 +10,15 @@ Data-driven analysis and visualisations for Formula 1.
 ## Tools
 
 -> Python
--> FastF1
+
+->FastF1
+
 -> Pandas
+
 -> Matplotlib
+
 -> Jupyter Notebook
+
 
 ## Purpose
 
